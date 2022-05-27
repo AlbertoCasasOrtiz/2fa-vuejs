@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
-import LoginApp from '@/views/Login.vue'
+import LoginApp from '@/views/login/Login.vue'
 import RegisterApp from '@/views/Register.vue'
 import HomeApp from '@/views/Home.vue'
 import ForgotApp from '@/views/Forgot.vue'
